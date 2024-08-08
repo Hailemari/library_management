@@ -2,7 +2,8 @@
 
 ## Overview
 
-This is a console-based library management system implemented in Go. It allows users to manage books and members in a library, including adding, removing, borrowing, and returning books.
+This is a console-based library management system implemented in Go. 
+It allows users to manage books and members in a library, including adding, removing, borrowing, and returning books.
 
 ## Project Structure
 
@@ -31,10 +32,6 @@ library_management/
 
 ## Usage
 
-Run the application:
-
-```sh
-go run main.go
 
 ### Run the Application
 
